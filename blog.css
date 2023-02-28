@@ -6,6 +6,9 @@ body{
   background-attachment: fixed;
 }
 
+p{
+  font-size: 1.1rem;
+}
 
 .mag-header {
   border-bottom: 1px solid #ff0000;
